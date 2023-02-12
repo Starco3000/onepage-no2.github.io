@@ -208,6 +208,7 @@ html {
 .member-img {
     width: 100%;
     margin-bottom: 10px;
+    filter: grayscale(75%);
 }
 
 #content .member-heading,
@@ -268,7 +269,7 @@ html {
     color: #fff;
     background-color: #000;
     font-size: 15px;
-    font-family: Verdana, sans-serif;;
+    font-family: Verdana, sans-serif;
     margin: 16px 0;
     padding: 11px 20px;
     border: none;
